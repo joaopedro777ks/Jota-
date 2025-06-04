@@ -17,8 +17,7 @@
         <p class="lead">Eu sou João Pedro</p>
         <h1>Curioso Vai achar!!</h1>
         <p>Sou Bom e Novo</p>
-        <p>![image](https://github.com/user-attachments/assets/83495303-eb61-4740-9bd9-95d9402941c9)
-</p>
+        <p>[image](https://github.com/user-attachments/assets/84a0e360-c232-4bd7-9f1c-b3f33c64b62e)
         <div>
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
