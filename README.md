@@ -15,7 +15,7 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Jota" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou João Pedro</p>
-        <h1>Eu ensino Programação</h1>
+        <h1>Curioso Vai achar!!</h1>
         <p>Sou Bom e Novo</p>
         <p>![image](https://github.com/user-attachments/assets/83495303-eb61-4740-9bd9-95d9402941c9)
 </p>
